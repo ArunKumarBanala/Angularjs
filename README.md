@@ -1,2 +1,2 @@
 # Angularjs
-practice
+sample
